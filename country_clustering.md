@@ -30,14 +30,14 @@ K-means is used to determine the optimal 3 clusters among the countries. we can 
 
 So finally this is the world with each country having a colour that corresponds to the cluster it's been assigned to. Cluster 0 is made of the country for which we have no data.
 
-<div class="iframe-container">
-    <iframe id="graph" src="country_clustering.html" width="1000" height="500"  frameborder="0">
-</div>
-    
 The choropleth map helps us with the visualization of the clusters. We can easily see how the European countries were clustered together, such as most of the developing countries like Brazil or India. 
 
 We were interested on the behaviour of those countries which are involved the most in the production of CO2. From the map and from the plots below, we can see how they suffer of the **Matthew Effect**.
 
 This leads to consider these countries as top level not only in terms of agriculture and livestock prodcution, but also in terms of income inequality. 
 
-In order to dig more carefully into this problem, we should consider how all the earnings of different branches (Industry, Agriculture, Turism, Services, etc.), are related to income inequality: however, we would need additional data (which are hardly to obtain) and much more work to provide insights about this issue.
+
+<div class="iframe-container">
+    <iframe id="graph" src="country_clustering.html" width="1000" height="500"  frameborder="0">
+</div>
+  
