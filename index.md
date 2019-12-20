@@ -4,9 +4,13 @@ title: "Climate Change and Global Inequalities: in-depth analysis of FAO databas
 subtitle: rADAr
 use-site-title: true
 bigimg:
-    - "/img/corn-in-field.jpg"
-    - "/img/crops_lack.jpg"
-    - "/img/cow.jpg"
+    - "/img/agriculture2.jpg"
+    - "/img/agriculture3.jpg"
+    - "/img/cow2.jpg"
+    - "/img/cow3.jpg"
+    - "/img/agriculture.jpg"
+    - "/img/farm.jpg"
+    - "/img/agriculture4.jpg"
 ---
 
 Wealth inequality, global warming and natural resources exploitation are some of the most discussed issues of the last decades. In our project we want to assess the influence that agriculture and livestock farming have on these different topics and how these problems could be solved.
